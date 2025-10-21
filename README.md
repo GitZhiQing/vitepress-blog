@@ -2,6 +2,12 @@
 
 基于 [VitePress](https://vitepress.dev/) + [Tailwind CSS](https://tailwindcss.com/) 创建的简洁博客。
 
+## 运行
+
+```
+pnpm install && pnpm dev
+```
+
 ## 演示
 
 ![主页](./images/home.png)
